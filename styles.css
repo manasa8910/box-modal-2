@@ -1,0 +1,13 @@
+body {
+  width: 70%;
+}
+.box {
+  border: solid red;
+  border-width: 3px;
+  margin: 25px 0px;
+  padding: 10px 7px;
+}
+.list-box {
+  border: solid red;
+  border-width: 3px;
+}
